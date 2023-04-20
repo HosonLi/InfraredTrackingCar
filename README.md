@@ -9,9 +9,9 @@ Sound the horn during departure and parking.
 Reaching the stop line and turning around.
 
 # Hardware configuration
-One STC89C52RC.
-Four infrared tracking module.
-One L298N.
-One buzzer.
-One infrared remote control module.
-Four motor.
+One STC89C52RC/
+Four infrared tracking module/
+One L298N/
+One buzzer/
+One infrared remote control module/
+Four motor/
