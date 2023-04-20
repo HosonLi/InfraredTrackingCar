@@ -1,0 +1,18 @@
+"C:\Program Files\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion/bin/ninja/win/ninja.exe" -G Ninja -S D:\OneDrive\Programme\MCU\STC89C52RC\InfraredTrackingCar -B D:\OneDrive\Programme\MCU\STC89C52RC\InfraredTrackingCar\cmake-build-debug
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/OneDrive/Programme/MCU/STC89C52RC/InfraredTrackingCar/cmake-build-debug
+
+收集编译器信息时遇到问题:
+	意外编译器输出。这个编译器可能不受支持。
+	如果您使用的是 GCC/Clang，请在 https://youtrack.jetbrains.com/issues/CPP 报告这个错误。
