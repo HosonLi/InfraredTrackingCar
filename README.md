@@ -6,7 +6,7 @@ The entire project follows the syntax of the SDCC compiler.
 Infrared tracking.
 Infrared remote control departure.
 Sound the horn during departure and parking.
-Reaching the stop line and turning around.
+Arriving at the stop line, reversing and entering the warehouse.
 
 # Hardware configuration
 One STC89C52RC/
