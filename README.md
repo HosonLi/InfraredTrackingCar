@@ -1,6 +1,6 @@
 # Infrared Racking Car
 An infrared tracking car based on STC89C52RC, and built through CLion with PlatformIO.
-The entire project follows the syntax of the SDCC compiler.
+\nThe entire project follows the syntax of the SDCC compiler.
 
 # Capable of Achieving Functionality
 Infrared tracking.
