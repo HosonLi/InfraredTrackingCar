@@ -1,5 +1,0 @@
-D:/OneDrive/Programme/MCU/STC89C52RC/PlatformIO/InfraredTrackingCar/cmake-build-stc89c52rc/CMakeFiles/Production.dir
-D:/OneDrive/Programme/MCU/STC89C52RC/PlatformIO/InfraredTrackingCar/cmake-build-stc89c52rc/CMakeFiles/Debug.dir
-D:/OneDrive/Programme/MCU/STC89C52RC/PlatformIO/InfraredTrackingCar/cmake-build-stc89c52rc/CMakeFiles/Z_DUMMY_TARGET.dir
-D:/OneDrive/Programme/MCU/STC89C52RC/PlatformIO/InfraredTrackingCar/cmake-build-stc89c52rc/CMakeFiles/edit_cache.dir
-D:/OneDrive/Programme/MCU/STC89C52RC/PlatformIO/InfraredTrackingCar/cmake-build-stc89c52rc/CMakeFiles/rebuild_cache.dir
