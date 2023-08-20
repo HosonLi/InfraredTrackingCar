@@ -1,12 +1,11 @@
 # Infrared Racking Car
-An infrared tracking car based on STC89C52RC, and built through CLion with PlatformIO.  
-The entire project follows the syntax of the SDCC compiler.
+The core code of infrared racking car.
 
 # Capable of Achieving Functionality
-Infrared tracking  
-Infrared remote control departure  
-Sound the horn during departure and parking  
-Arriving at the stop line, reversing and entering the warehouse
+Infrared tracking.  
+Infrared remote control departure.  
+Sound the horn during departure and parking.  
+Arrive at the parking line, reverse into the garage and automatically stop.
 
 # Hardware Configuration
 One STC89C52RC  
