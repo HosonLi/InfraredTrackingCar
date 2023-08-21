@@ -8,12 +8,12 @@ Sound the horn during departure and parking.
 Arrive at the parking line, reverse into the garage and automatically stop.
 
 # Hardware Configuration
-One STC89C52RC  
-Four infrared tracking module  
-One L298N  
-One buzzer  
-One infrared remote control module  
-Four motor
+STC89C52RC 1  
+Infrared Tracking Module 2  
+L298N 1  
+Buzzer 1  
+Infrared Remote Control Module 1  
+Motor 4
 
 # Using
 These are the core codes, and it means you need a project to support them.  
